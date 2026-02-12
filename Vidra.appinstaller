@@ -1,6 +1,7 @@
-﻿<AppInstaller Uri="https://visentio.cz/Vidra-Release/Vidra.appinstaller" Version="1.5.4.127" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
-  <MainPackage Name="Visentio.Vidra" Publisher="CN=Visentio s.r.o., O=Visentio s.r.o., L=Praha, S=Praha, C=CZ, SERIALNUMBER=08538298, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=CZ" Version="1.5.4.127" ProcessorArchitecture="x64" Uri="https://github.com/Visentio/Vidra-Release/releases/download/v1.5.4.127/Vidra.Packaging_1.5.4.127_x64.msix" />
+﻿<AppInstaller Uri="https://visentio.cz/Vidra-Release/Vidra.appinstaller" Version="1.5.4.129" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  <MainPackage Name="Visentio.Vidra" Publisher="CN=Visentio s.r.o., O=Visentio s.r.o., L=Praha, S=Praha, C=CZ, SERIALNUMBER=08538298, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.3=CZ" Version="1.5.4.129" ProcessorArchitecture="x64" Uri="https://github.com/Visentio/Vidra-Release/releases/download/v1.5.4.129/Vidra.Packaging_1.5.4.129_x64.msix" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" ShowPrompt="true" UpdateBlocksActivation="true" />
+    <AutomaticBackgroundTask />
   </UpdateSettings>
 </AppInstaller>
